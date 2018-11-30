@@ -1,6 +1,6 @@
 # ASCII Maze
 
-One Paragraph of project description goes here
+An ASCII RogueLike game for IOS phones written in Swift. The game generates parsed maps based on an inputed textfile map layout. The game has basic, collision, AI and a minimal IOS UI. 
 
 ## Getting Started
 
