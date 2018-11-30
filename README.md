@@ -11,5 +11,5 @@ To run this project just download and open with XCode.
 What things you need to install the software and how to install them
 
 ```
-XCode for OSX
+XCode for MacOS
 ```
