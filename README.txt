@@ -1,16 +1,15 @@
-******************
-|//// ReadMe \\\\|
-|////// :D \\\\\\|
-******************
+# ASCII Maze
 
+One Paragraph of project description goes here
 
-Name: Jonathan MacPherson-Gray
+## Getting Started
 
-Student ID: 0878619
+To run this project just download and open with XCode.
 
-Everything seems to be working except for hiding rooms :)
+### Prerequisites
 
-The view may also fail if you have weird rooms like 100x3 or 3x100 for example :D
+What things you need to install the software and how to install them
 
-Please enjoy
-
+```
+XCode for OSX
+```
